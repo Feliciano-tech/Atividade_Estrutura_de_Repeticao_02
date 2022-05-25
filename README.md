@@ -28,5 +28,5 @@ Inicio
 
 Fim  
 
-![Fluxograma]()
+![Fluxograma](https://github.com/Feliciano-tech/Atividade_Estrutura_de_Repeticao_02/blob/main/Fluxograma-votacao.png)
             
